@@ -31,14 +31,15 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-<h1>
-  hi there
+<h1 align="center">
+  Hi I'm Hoang
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 ---
 
 ### :boy: About Me: 
+
 - :telescope: I’m working as a AI Engineer 
 
 - :seedling: Exploring Technical Content Writing.
