@@ -31,4 +31,17 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-### Hi there👋
+<h1>
+  hi there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+---
+
+### :boy: About Me: 
+- :telescope: I’m working as a AI Engineer 
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I usually read tech articles AI
+
