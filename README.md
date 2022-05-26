@@ -19,4 +19,16 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
 </div>
 
-### Hi there 👋
+<div id="badges">
+  <a href="https://www.linkedin.com/in/hoang-le-669958219/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100027115956686">
+    <img src="https://img.shields.io/badge/Facebook-red?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+  <a href="https://www.hackerrank.com/lehuyhoang301221">
+    <img src="https://img.shields.io/badge/Hackerrank-green?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Hackerrank Badge"/>
+  </a>
+</div>
+
+### Hi there👋
